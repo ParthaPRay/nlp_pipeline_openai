@@ -274,6 +274,41 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 
 ### Visualizations
+
+-**Named Entities**
+![image](https://github.com/user-attachments/assets/b235a814-3841-4c43-99b9-b01d9cf7b993)
+
+-**Clean Tokens**
+![image](https://github.com/user-attachments/assets/98593af4-48e7-47b3-9d39-1da9981789ea)
+
+-**Word Frequencies**
+![image](https://github.com/user-attachments/assets/b5d08e53-173b-4122-98d3-893c0f1a13ac)
+
+-**Sentiment ANalysis**
+![image](https://github.com/user-attachments/assets/d2539eb3-5cef-41a5-b180-60fc4b59d097)
+
+-**Top TFIDF keywords**
+![image](https://github.com/user-attachments/assets/08f36633-750c-4a7c-9676-278afe86f6ca)
+
+-**Topics**
+![image](https://github.com/user-attachments/assets/6eb5f354-91c6-4f0a-b8e7-7fdf848d6314)
+
+-**Summary**
+![image](https://github.com/user-attachments/assets/6a837d46-9f46-4f25-9eab-fef462f4faff)
+
+-**RAKE Keywords**
+![image](https://github.com/user-attachments/assets/601c8c4e-296e-4ae5-91dd-27184c946fb4)
+
+-**Document Clusters**
+![image](https://github.com/user-attachments/assets/7f6fb996-e974-4e5b-a539-f356bfb1a65c)
+
+-**POS Tagging Counts**
+![image](https://github.com/user-attachments/assets/05e495a1-48f1-4cf2-a2aa-3e5b2d7462a8)
+
+-**Readability Scores**
+![image](https://github.com/user-attachments/assets/e13f5f61-b175-4529-85f1-81196b6f798d)
+
+
 - **Word Cloud**:
   ![image](https://github.com/user-attachments/assets/b09e0a8e-906b-4e9f-b365-a47241e43432)
 
