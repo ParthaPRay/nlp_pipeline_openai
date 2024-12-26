@@ -1,6 +1,6 @@
 # NLP Pipeline with Graceful Clustering
 
-This **Natural Language Processing (NLP) Pipeline** provides a comprehensive solution for analyzing, clustering, and visualizing text data. It integrates advanced machine learning techniques with a user-friendly **Gradio interface**, enabling users to interactively explore results with structured outputs and dynamic visualizations.
+This **Natural Language Processing (NLP) Pipeline** along with **gpt-4o-mini** provides a comprehensive solution for analyzing, clustering, and visualizing text data. It integrates advanced machine learning techniques with a user-friendly **Gradio interface**, enabling users to interactively explore results with structured outputs and dynamic visualizations.
 
 ---
 
