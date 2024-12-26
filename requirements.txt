@@ -1,0 +1,13 @@
+spacy
+wordcloud
+networkx
+nltk
+textblob
+scikit-learn
+seaborn
+matplotlib
+rake-nltk
+textstat
+gradio
+openai
+
