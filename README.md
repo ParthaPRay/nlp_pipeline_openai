@@ -188,9 +188,9 @@ def cluster_documents(documents, n_clusters=3):
 ### Running the Application
 1. Start the application:
    ```bash
-   python main.py
+   python app.py
    ```
-2. Open the Gradio interface at `http://127.0.0.1:7860`.
+2. Open the Gradio interface at `http://127.0.0.1:7861`.
 
 ### Example Input
 - **Text**: `"Artificial intelligence revolutionizes industries."`
