@@ -269,15 +269,23 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Screenshots
 
 ### Gradio Interface
-![Gradio Interface](screenshot_ui.png)
+
+![image](https://github.com/user-attachments/assets/ada65ce7-ad2f-49fc-93ce-5ecb90d392e1)
+
 
 ### Visualizations
 - **Word Cloud**:
-  ![Word Cloud](screenshot_wordcloud.png)
-- **Polarity Heatmap**:
-  ![Polarity Heatmap](screenshot_heatmap.png)
+  ![image](https://github.com/user-attachments/assets/b09e0a8e-906b-4e9f-b365-a47241e43432)
 
----
+- **Polarity Heatmap**:
+  ![image](https://github.com/user-attachments/assets/cda1c9de-c9d4-4136-a401-10301f18376d)
+
+- **TF-IDF Keywords**:
+![image](https://github.com/user-attachments/assets/d2e3942a-640f-427d-b429-a5e23ca6ecb2)
+
+- **Co-occurence Network**:
+![image](https://github.com/user-attachments/assets/8d49634f-f733-400a-8fac-4349214d1816)
+
 
 ## References
 - [SpaCy Documentation](https://spacy.io/)
